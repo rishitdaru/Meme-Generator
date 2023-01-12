@@ -1,6 +1,6 @@
 ## Description
 
-This is a Meme Generator that can be used to add text to trending meme images pulled from an API. The app can be tweaked a bit to use a specific set of images that can be specified in memesData.js
+This is a Meme Generator (MemeMaster) that can be used to add text to trending meme images pulled from an API. The app can be tweaked a bit to use a specific set of images that can be specified in memesData.js
 
 # Preview:
 
